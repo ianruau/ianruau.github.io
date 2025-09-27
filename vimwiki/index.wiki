@@ -1,9 +1,0 @@
-= Welcome to Ian's Webpage (Under construction) =
-1. First
-2. Second
-3. [[ThirdDropbox]]
-4. Fourth item 
-5. More text
-6. Sixth Item
-7. Seventh item
-8. Eighth item
