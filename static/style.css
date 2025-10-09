@@ -48,21 +48,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-/* Circular image styles */
-.profile-photo {
-    border-radius: 50%;
-    border: 3px solid #0066cc;
-    display: block;
-    margin: 0 auto;
-}
-
-.profile-photo:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-}
-
-.photo-container {
-    text-align: center;
-    margin: 20px 0;
-}
