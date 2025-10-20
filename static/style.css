@@ -48,31 +48,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-/* Footer styling */
-footer {
-    margin-top: 50px;
-    padding-top: 20px;
-    border-top: 1px solid #eee;
-    font-size: 0.9em;
-    color: #666;
-    text-align: center;
-}
-
-footer p {
-    margin: 5px 0;
-}
-
-.footer-links {
-    margin-top: 10px;
-}
-
-.footer-links a {
-    color: #666;
-    text-decoration: none;
-    margin: 0 10px;
-}
-
-.footer-links a:hover {
-    text-decoration: underline;
-}
